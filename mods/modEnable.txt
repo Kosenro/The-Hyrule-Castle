@@ -1,0 +1,6 @@
+basic_characteristics : enable 0
+character_creation : disable 1
+basic_characteristics_2 : enable 1
+level_and_experience : enable 1
+random_game_event : enable 0
+better_combat_options : enable 0

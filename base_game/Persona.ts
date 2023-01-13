@@ -1,0 +1,17 @@
+export default interface Persona {
+  id : number,
+  name : string,
+  hp : number,
+  mp : number,
+  str : number,
+  hpmax : number,
+  int : number,
+  def : number,
+  res : number,
+  luck: number,
+  spd : number,
+  rarity :number,
+  race : number,
+  class: number,
+  exp: number,
+}
